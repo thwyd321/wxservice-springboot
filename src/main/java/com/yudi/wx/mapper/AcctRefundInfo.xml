@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yudi.wx.dao.AcctRefundInfoDao">
+	<resultMap type="AcctRefundInfo" id="AcctRefundInfoResult">
+		<result property="orderNo" column="ORDER_NO" />
+		<result property="mrchId" column="mrch_id" />
+		<result property="custId" column="cust_id" />
+		<result property="payeeType" column="payee_type" />
+		<result property="payeeAccount" column="payee_account" />
+		<result property="applyTranAmt" column="apply_tran_amt" />
+		<result property="tranAmt" column="tran_amt" />
+		<result property="payChannel" column="pay_channel" />
+		<result property="createTime" column="create_time" />
+		<result property="outTradeNo" column="out_trade_no" />
+		<result property="orderStat" column="order_stat" />
+		<result property="refundStat" column="refund_stat" />
+		<result property="refundTime" column="refund_time" />
+		<result property="errorCode" column="error_code" />
+		<result property="errorMsg" column="error_msg" />
+	</resultMap>
+	<select id="getOderdetailBypayChannel" parameterType="String" resultMap="AcctRefundInfoResult" statementType="PREPARED" >
+		<![CDATA[
+		SELECT * FROM c_acct_refund_info t
+		]]>
+	</select>
+
+
+</mapper>
+

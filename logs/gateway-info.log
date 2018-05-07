@@ -1,0 +1,308 @@
+2018-04-26 22:10:58  [main][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-26 22:10:58  [Thread-6][INFO] com.alibaba.druid.pool.DruidDataSource:1514 - {dataSource-1} closed
+2018-04-26 22:42:28  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 09:47:02  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 10:07:28  [RMI TCP Connection(9)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:01:45  [RMI TCP Connection(10)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:07:21  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:07:39  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:29 - signatured262cbf238172aec3c93c240c72ef2081f91a13c
+2018-04-28 11:07:39  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:30 - timestamp1524884858
+2018-04-28 11:07:39  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:31 - nonce2967686247
+2018-04-28 11:07:39  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:32 - echostr4107080787772043262
+2018-04-28 11:07:39  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:33 - true
+2018-04-28 11:12:18  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:12:26  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:27 - signature451ac5bd4ef2c5d08f5d3ebf9fc06f516f1b841b
+2018-04-28 11:12:26  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:28 - timestamp1524885145
+2018-04-28 11:12:26  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:29 - nonce2033405403
+2018-04-28 11:12:26  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:30 - echostr7973211422479345369
+2018-04-28 11:12:26  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:31 - true
+2018-04-28 11:14:23  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:14:31  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:25 - signaturefd990f319ff868fbf73669568a16f195dc9b3948
+2018-04-28 11:14:31  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:26 - timestamp1524885270
+2018-04-28 11:14:31  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:27 - nonce73440131
+2018-04-28 11:14:31  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:28 - echostr1051604750269671263
+2018-04-28 11:14:31  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:30 - true
+2018-04-28 11:24:09  [RMI TCP Connection(8)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:32:41  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:32:52  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:25 - signature96eb3b655fe1a175030365157576e4e40d5d67e8
+2018-04-28 11:32:52  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:26 - timestamp1524886372
+2018-04-28 11:32:52  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:27 - nonce2166855612
+2018-04-28 11:32:52  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:28 - echostr6128740525583367039
+2018-04-28 11:32:52  [http-nio-80-exec-1][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:30 - true
+2018-04-28 11:32:52  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:42 - 开始聊天----------
+2018-04-28 11:35:43  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:36:55  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:37:26  [RMI TCP Connection(7)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:37:30  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:55 - org.apache.catalina.connector.RequestFacade@75d17076
+2018-04-28 11:39:11  [RMI TCP Connection(9)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 11:39:15  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:55 - org.apache.catalina.connector.RequestFacade@36053cfb
+2018-04-28 12:04:44  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:04:49  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:30 - gh_c8fc712be8ce
+2018-04-28 12:04:49  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:31 - 1524888288
+2018-04-28 12:04:49  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - text
+2018-04-28 12:04:49  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - 111
+2018-04-28 12:04:49  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 6549345327434387195
+2018-04-28 12:06:22  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:06:23  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:30 - gh_c8fc712be8ce
+2018-04-28 12:06:23  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:31 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:06:23  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - 1524888382
+2018-04-28 12:06:23  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - text
+2018-04-28 12:06:23  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 144
+2018-04-28 12:06:23  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - 6549345731161313030
+2018-04-28 12:15:44  [RMI TCP Connection(3)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:15:50  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:15:50  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:15:50  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524888949
+2018-04-28 12:15:50  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:15:50  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - 111
+2018-04-28 12:15:50  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549348166407770010
+2018-04-28 12:21:27  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:21:27  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:21:27  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524889287
+2018-04-28 12:21:27  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:21:27  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - 455
+2018-04-28 12:21:27  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 6549349618106716108
+2018-04-28 12:27:58  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:27:58  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:27:58  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:34 - 1524889677
+2018-04-28 12:27:58  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:27:58  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:36 - 111
+2018-04-28 12:27:58  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:37 - 6549351293143961639
+2018-04-28 12:28:08  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:28:08  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:28:08  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:34 - 1524889687
+2018-04-28 12:28:08  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:28:08  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:36 - 8888
+2018-04-28 12:28:08  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:37 - 6549351336093634605
+2018-04-28 12:28:46  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:28:46  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:28:46  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:34 - 1524889725
+2018-04-28 12:28:46  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:35 - voice
+2018-04-28 12:28:46  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 12:28:46  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:37 - 6549351499302391866
+2018-04-28 12:30:06  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:30:06  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0_xo40IR4lMp8yGDQkxMumQ
+2018-04-28 12:30:06  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524889805
+2018-04-28 12:30:06  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - event
+2018-04-28 12:30:06  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 12:30:06  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 
+2018-04-28 12:30:08  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:30:08  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0zvdWOgVVtgxyYmUiQFSY3M
+2018-04-28 12:30:08  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524889808
+2018-04-28 12:30:08  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - event
+2018-04-28 12:30:08  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 12:30:08  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 
+2018-04-28 12:30:12  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:30:12  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:33 - oARJo0zvdWOgVVtgxyYmUiQFSY3M
+2018-04-28 12:30:12  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:34 - 1524889811
+2018-04-28 12:30:12  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:30:12  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:36 - ？？？
+2018-04-28 12:30:12  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:37 - 6549351868669579346
+2018-04-28 12:32:57  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:32:57  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:32:57  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:34 - 1524889976
+2018-04-28 12:32:57  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:32:57  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:36 - 。
+2018-04-28 12:32:57  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:37 - 6549352577339183218
+2018-04-28 12:34:56  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:34:56  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:34:56  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:34 - 1524890096
+2018-04-28 12:34:56  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:34:56  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:36 - 111
+2018-04-28 12:34:56  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:37 - 6549353092735258759
+2018-04-28 12:39:14  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:39:14  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:39:14  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524890354
+2018-04-28 12:39:14  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:39:14  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - 王
+2018-04-28 12:39:14  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549354200836821194
+2018-04-28 12:39:29  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:39:29  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0w7nArMlXxuk7-4fgis0AoM
+2018-04-28 12:39:29  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524890369
+2018-04-28 12:39:29  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - event
+2018-04-28 12:39:29  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 12:39:29  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 
+2018-04-28 12:39:33  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:39:33  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:33 - oARJo01HSekdE2TbiqAyQqslMCDs
+2018-04-28 12:39:33  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:34 - 1524890372
+2018-04-28 12:39:33  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:35 - event
+2018-04-28 12:39:33  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 12:39:33  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:37 - 
+2018-04-28 12:39:36  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:39:36  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:33 - oARJo0w7nArMlXxuk7-4fgis0AoM
+2018-04-28 12:39:36  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:34 - 1524890375
+2018-04-28 12:39:36  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:39:36  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:36 - 1
+2018-04-28 12:39:36  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:37 - 6549354291031134417
+2018-04-28 12:39:43  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:39:43  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:33 - oARJo0w7nArMlXxuk7-4fgis0AoM
+2018-04-28 12:39:43  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:34 - 1524890382
+2018-04-28 12:39:43  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:39:43  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:36 - 你高潮
+2018-04-28 12:39:43  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:37 - 6549354321095905493
+2018-04-28 12:40:16  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:40:16  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo01HSekdE2TbiqAyQqslMCDs
+2018-04-28 12:40:16  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524890415
+2018-04-28 12:40:16  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:40:16  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - 【收到不支持的消息类型，暂无法显示】
+2018-04-28 12:40:16  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549354462829826278
+2018-04-28 12:40:43  [RMI TCP Connection(9)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:40:45  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:40:45  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:40:45  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524890444
+2018-04-28 12:40:45  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:40:45  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - A
+2018-04-28 12:40:45  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549354587383877877
+2018-04-28 12:41:45  [RMI TCP Connection(4)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:41:47  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:41:47  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:41:47  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524890506
+2018-04-28 12:41:47  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:41:47  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - A
+2018-04-28 12:41:47  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549354853671850265
+2018-04-28 12:42:09  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:42:09  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:42:09  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524890506
+2018-04-28 12:42:09  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:42:09  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - A
+2018-04-28 12:42:09  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 6549354853671850265
+2018-04-28 12:42:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:42:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:42:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:34 - 1524890506
+2018-04-28 12:42:23  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:42:23  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:36 - A
+2018-04-28 12:42:23  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:37 - 6549354853671850265
+2018-04-28 12:42:23  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:42:23  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:42:23  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:34 - 1524890538
+2018-04-28 12:42:23  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:42:23  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:36 - Jk
+2018-04-28 12:42:23  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:37 - 6549354991110803750
+2018-04-28 12:42:23  [http-nio-80-exec-6][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:42:23  [http-nio-80-exec-6][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:42:23  [http-nio-80-exec-6][INFO] com.yudi.wx.controller.WxController:34 - 1524890538
+2018-04-28 12:42:23  [http-nio-80-exec-6][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:42:23  [http-nio-80-exec-6][INFO] com.yudi.wx.controller.WxController:36 - Jk
+2018-04-28 12:42:23  [http-nio-80-exec-6][INFO] com.yudi.wx.controller.WxController:37 - 6549354991110803750
+2018-04-28 12:45:07  [RMI TCP Connection(7)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:45:09  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:45:09  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:45:09  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524890708
+2018-04-28 12:45:09  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:45:09  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - Did
+2018-04-28 12:45:09  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549355721255244139
+2018-04-28 12:47:56  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:47:56  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:47:56  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524890875
+2018-04-28 12:47:56  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:47:56  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - Hi
+2018-04-28 12:47:56  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 6549356438514782623
+2018-04-28 12:48:10  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:48:10  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:48:10  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:34 - 1524890890
+2018-04-28 12:48:10  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:48:10  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:36 - Xx
+2018-04-28 12:48:10  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:37 - 6549356502939292068
+2018-04-28 12:54:12  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 12:54:57  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:54:57  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:54:57  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524891296
+2018-04-28 12:54:57  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:54:57  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - 发士大夫
+2018-04-28 12:54:57  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549358246696014347
+2018-04-28 12:55:00  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:55:00  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:55:00  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524891299
+2018-04-28 12:55:00  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:55:00  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - sdfasdf
+2018-04-28 12:55:00  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 6549358259580916238
+2018-04-28 12:55:02  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:55:02  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:55:02  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:34 - 1524891302
+2018-04-28 12:55:02  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:55:02  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:36 - sadfsdf
+2018-04-28 12:55:02  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:37 - 6549358272465818128
+2018-04-28 12:55:34  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:55:34  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:33 - oARJo0w1aMlVd6FMJIma3e44i_Hs
+2018-04-28 12:55:34  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:34 - 1524891333
+2018-04-28 12:55:34  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:35 - event
+2018-04-28 12:55:34  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 12:55:34  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:37 - 
+2018-04-28 12:55:50  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:55:50  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:33 - oARJo0w1aMlVd6FMJIma3e44i_Hs
+2018-04-28 12:55:50  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:34 - 1524891350
+2018-04-28 12:55:50  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:55:50  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:36 - 这是什么测试哪
+2018-04-28 12:55:50  [http-nio-80-exec-9][INFO] com.yudi.wx.controller.WxController:37 - 6549358478624248348
+2018-04-28 12:59:35  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 12:59:35  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 12:59:35  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:34 - 1524891574
+2018-04-28 12:59:35  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 12:59:35  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:36 - 😡
+2018-04-28 12:59:35  [http-nio-80-exec-1][INFO] com.yudi.wx.controller.WxController:37 - 6549359440696922701
+2018-04-28 13:09:38  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 13:09:38  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 13:09:38  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:34 - 1524892177
+2018-04-28 13:09:38  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 13:09:38  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:36 - A
+2018-04-28 13:09:38  [http-nio-80-exec-3][INFO] com.yudi.wx.controller.WxController:37 - 6549362030562202331
+2018-04-28 13:10:15  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 13:10:15  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 13:10:15  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:34 - 1524892215
+2018-04-28 13:10:15  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 13:10:15  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:36 - Z
+2018-04-28 13:10:15  [http-nio-80-exec-5][INFO] com.yudi.wx.controller.WxController:37 - 6549362193770959583
+2018-04-28 13:10:30  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 13:10:30  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 13:10:30  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:34 - 1524892229
+2018-04-28 13:10:30  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:35 - image
+2018-04-28 13:10:30  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:36 - 
+2018-04-28 13:10:30  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:37 - 6549362253900501733
+2018-04-28 14:12:41  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:21:17  [RMI TCP Connection(7)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:22:21  [RMI TCP Connection(4)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:23:01  [RMI TCP Connection(7)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:24:37  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:26:01  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:31:14  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 14:44:34  [RMI TCP Connection(8)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:26:11  [RMI TCP Connection(3)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:48:25  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:51:06  [RMI TCP Connection(4)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:52:31  [RMI TCP Connection(8)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:54:34  [RMI TCP Connection(8)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:55:46  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:56:30  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 15:56:30  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 15:56:30  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:34 - 1524902190
+2018-04-28 15:56:30  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 15:56:30  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:36 - 1
+2018-04-28 15:56:30  [http-nio-80-exec-4][INFO] com.yudi.wx.controller.WxController:37 - 6549405036069739471
+2018-04-28 15:57:40  [RMI TCP Connection(8)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 15:59:37  [RMI TCP Connection(7)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 16:30:35  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 16:59:52  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:04:04  [RMI TCP Connection(7)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:15:06  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:17:32  [RMI TCP Connection(5)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:18:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-04-28 17:18:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-04-28 17:18:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:34 - 1524907088
+2018-04-28 17:18:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-04-28 17:18:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:36 - ，
+2018-04-28 17:18:09  [http-nio-80-exec-2][INFO] com.yudi.wx.controller.WxController:37 - 6549426072819556445
+2018-04-28 17:19:48  [RMI TCP Connection(4)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:21:57  [RMI TCP Connection(2)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:25:36  [RMI TCP Connection(10)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-04-28 17:36:26  [RMI TCP Connection(6)-127.0.0.1][INFO] com.alibaba.druid.pool.DruidDataSource:785 - {dataSource-1} inited
+2018-05-05 12:55:16  [http-nio-80-exec-9][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:24 - signature1e7fcc7744407b0a6edfe80049d51d11f0400671
+2018-05-05 12:55:16  [http-nio-80-exec-9][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:25 - timestamp1525496113
+2018-05-05 12:55:16  [http-nio-80-exec-9][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:26 - nonce1244857602
+2018-05-05 12:55:16  [http-nio-80-exec-9][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:27 - echostr4735538215965818231
+2018-05-05 12:55:16  [http-nio-80-exec-9][INFO] com.yudi.wx.service.impl.WXcheckServiceImpl:29 - true
+2018-05-05 12:55:45  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:32 - gh_c8fc712be8ce
+2018-05-05 12:55:45  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:33 - oARJo0yw8uX9JDcjutMbjfD38tJs
+2018-05-05 12:55:45  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:34 - 1525496142
+2018-05-05 12:55:45  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:35 - text
+2018-05-05 12:55:45  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:36 - 1
+2018-05-05 12:55:45  [http-nio-80-exec-7][INFO] com.yudi.wx.controller.WxController:37 - 6551956040485253697
