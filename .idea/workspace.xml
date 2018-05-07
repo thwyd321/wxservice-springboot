@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ca628364-2ea0-449c-aa12-2546a577612b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,7 +15,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="21">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +63,9 @@
       <find>resp</find>
       <find>\n</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\workspace\study\wxservice</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,7 +136,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-525" />
     <option name="y" value="30" />
     <option name="width" value="1750" />
@@ -367,7 +384,7 @@
       <workItem from="1524908992223" duration="25000" />
       <workItem from="1525491788104" duration="8821000" />
       <workItem from="1525656895366" duration="733000" />
-      <workItem from="1525660393992" duration="543000" />
+      <workItem from="1525660393992" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="wyd">
       <created>1524753230620</created>
@@ -407,7 +424,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41631000" />
+    <option name="totallyTimeSpent" value="42236000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,7 +436,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32986626" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
